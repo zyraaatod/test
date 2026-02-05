@@ -1,7 +1,10 @@
 # tambahakn
 git add .
+
 git commit -m "resolve merge conflict"
+
 git push origin main
+
 
 # …or create a new repository on the command line
 echo "# tutor" >> README.md
